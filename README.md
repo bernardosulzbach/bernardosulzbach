@@ -4,6 +4,6 @@ Preferences aside, I am a strong believer in using the right tool for the job at
 
 Recently, I have been interested in cybersecurity and safe systems programming using Rust.
 
-You can find [my portfolio here](https://www.bernardosulzbach.com/portfolio/) and feel free to [reach out to me via email](mailto:bernardo@bernardosulzbach.com).
+You can find [my portfolio here](https://www.bernardosulzbach.com/portfolio/). Feel free to [reach out to me by email](mailto:bernardo@bernardosulzbach.com).
 
 I am willing to relocate for interesting job opportunities.
