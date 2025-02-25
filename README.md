@@ -4,9 +4,10 @@ I have several years of experience with a multitude of programming languages, in
 I strongly believe in using the right tool for the job at hand, and see most hard rules in technology as obstacles to progress.
 Reality is not simple.
 
-Lately, I have been working on the specification and the Rust implementation of my first programming language and real-time soft-body physics simulation using C++.
+Lately, I have been working on the specification and a Rust implementation of my first programming language.
+I have also used C++ to do some real-time soft-body physics.
 
 You can find [my portfolio here](https://www.bernardosulzbach.com/portfolio/).
 Feel free to [reach out to me by email](mailto:bernardo@bernardosulzbach.com).
 
-I am willing to relocate for interesting job opportunities.
+I'm currently living in Berlin, but I'm willing to relocate for interesting job opportunities.
